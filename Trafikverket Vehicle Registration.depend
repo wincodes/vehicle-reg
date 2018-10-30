@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540877181 source:c:\users\user\desktop\codeblock\trafikverket vehicle registration\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
